@@ -43,7 +43,8 @@ p{
 }
 
 a{
-    color: var(--third-color)
+    color: var(--third-color);
+    font-weight: bold;
 }
 
 a:hover, a:focus{
